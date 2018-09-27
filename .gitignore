@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Nodes/NodesMVC/obj/Debug
+/Nodes/RecursiveTreeCreation/obj/Debug
+/Nodes/RecursiveTreeCreation/bin/Debug
+/.vs
+/Nodes/.vs/Nodes/v15
+/Nodes/NodesMVC/App_Data
+/Nodes/NodesMVC/bin
+/Nodes/packages
